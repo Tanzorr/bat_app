@@ -39,7 +39,7 @@ function askUser() {
                                         position:data[3],
                                         submit:"submit"
                     }).done(function( data ) {
-                        alert( "Data Loaded: " + data );
+                        //alert( "Data Loaded: " + data );
                     });
                 }
             }else {
